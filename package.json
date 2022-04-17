@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "compile": "wat-wasm"
+  },
+  "devDependencies": {
+    "wat-wasm": "^1.0.43"
+  }
+}
